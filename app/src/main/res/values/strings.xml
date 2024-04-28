@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="vault">My Vault</string>
+    <string name="password">password</string>
+    <string name="bin">Bin</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Log In</string>
+</resources>
